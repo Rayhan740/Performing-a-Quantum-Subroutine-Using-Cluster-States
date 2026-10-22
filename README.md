@@ -8,7 +8,7 @@ Key Features:
 
 2. Cluster-state construction: Demonstrates the mathematical procedure for constructing cluster states with larger numbers of qubits.
 
-3. Four marked states: Investigates phase-oracle implementations for all four computational basis states: (|00\rangle), (|01\rangle), (|10\rangle), and (|11\rangle).
+3. Four marked states: Investigates phase-oracle implementations for all four computational basis states: ($|00\rangle$), ($|01\rangle$), ($|10\rangle$), and ($|11\rangle$).
 
 4. PennyLane simulations: Uses PennyLane for quantum circuit simulations to examine the proposed implementations.
 
