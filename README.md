@@ -18,7 +18,7 @@ This repository explores the theoretical and computational implementation of a t
 
 ### Reference:
 
-Main Inspiration of this work (P. Walther, K. Resch, T. Rudolph, E. Schenck, H. Weinfurter, V. Vedral, M. Aspelmeyer, and A. Zeilinger, “Experimental One-Way Quantum Computing,” Nature, vol. 434, pp. 169–176, 2005.)
+Main Inspiration of this work (P. Walther, K. Resch, T. Rudolph, E. Schenck, H. Weinfurter, V. Vedral, M. Aspelmeyer, and A. Zeilinger, “Experimental One-Way Quantum Computing,” Nature, vol. 434, pp. 169–176, 2005. =>  https://www.nature.com/articles/nature03347)
 
 ### Preprint and Future Development
 
