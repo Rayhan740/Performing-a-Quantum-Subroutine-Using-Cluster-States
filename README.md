@@ -2,7 +2,7 @@
 
 This repository explores the theoretical and computational implementation of a two-qubit phase oracle using measurement-based quantum computing (MBQC) and cluster states, inspired by Walther et al. (2005).
 
-####Key Features:
+###Key Features:
 
 1. Explicit phase-oracle formulation: Develops a mathematical description of a two-qubit phase oracle within the MBQC framework.
 
@@ -16,7 +16,7 @@ This repository explores the theoretical and computational implementation of a t
 
 6. MBQC framework: Focuses on cluster-state configurations, measurement patterns, and the mathematical description of measurement-based operations.
 
-####Reference:
+###Reference:
 
 Main Inspiration of this work (P. Walther, K. Resch, T. Rudolph, E. Schenck, H. Weinfurter, V. Vedral, M. Aspelmeyer, and A. Zeilinger, “Experimental One-Way Quantum Computing,” Nature, vol. 434, pp. 169–176, 2005.)
 
